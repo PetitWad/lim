@@ -1,0 +1,110 @@
+nav{
+ height: 75px;
+}
+
+.banner-logo, .navbar-toggler{
+  position: relative;
+  top: -5px;
+}
+
+.banner-logo img{
+        height: 70px;
+        width: 70px;
+    }
+
+    .offcanvas-header img{
+        height: 70px;
+        width: 70px;
+    }
+
+    .banner-logo img{
+        height: 45px;
+        width: 45px;
+    }
+
+
+.navbar-toggler{
+  position: relative;
+  top: -12px;
+}
+
+#navbarNav li {
+  margin-left: 0.5em;
+}
+
+
+.navbar-nav .nav-item a:hover{
+  background-color: orange;
+  padding-left: 10px;
+  border-radius: 4px;
+  box-shadow: 1px 0px 1px black;
+}
+
+.offcanvas-header img{
+  width:60px;
+  height: 60px;
+}
+
+
+#section-event {
+  margin-top: 70px;
+}
+
+#eventFisrt {
+  margin-top: 5rem;
+}
+
+#evenTtwo {
+  margin-top: 5rem;
+  margin-left: 0rem;
+}
+
+.imgFlottante {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.1);
+  float: left;
+  shape-outside: circle();
+  margin: 20px;
+}
+
+#contact {
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.1);
+  text-align: justify;
+}
+
+#footer {
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.1);
+  margin-top: 60px;
+  height: 200px;
+}
+#footer .icons-reseaux a {
+  text-decoration: none;
+  padding-top: 20px;
+}
+#footer .icons-reseaux a i {
+  font-size: 30px;
+  margin-left: 22px;
+}
+
+ul li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+#programs {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+
+/*# sourceMappingURL=style.css.map */
+@media screen and (max-width: 769px) {
+  .banner-logo a{
+      font-size: medium;
+  }
+
+
+}
+

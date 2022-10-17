@@ -1,0 +1,70 @@
+#navbarNav{
+    margin-right: 4%;
+    font-size: 125%;
+
+    li{
+        margin-left: 0.5em;
+        a{ color: black;} 
+    }
+    .nav-link:hover{
+      color: orange;
+    }
+}
+
+.navbar-toggler{
+  color: black;
+  height: 33px;
+  width: 35px;
+}
+
+// ===================eventLIS=============================
+#section-event{
+  margin-top: 70px;
+}
+#eventFisrt{
+margin-top: 5rem;
+}
+#evenTtwo{
+  margin-top: 5rem;
+  margin-left: 0rem;
+}
+
+// ============================Contact=====================
+.imgFlottante{
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.1);
+  float: left;
+  shape-outside: circle();
+  margin: 20px;
+}
+
+#contact{
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.1);
+}
+
+// ============================== footer ===================
+
+#footer{
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.1);
+  margin-top: 150px;
+  .icons-reseaux a{
+   text-decoration: none;
+   padding-top: 20px;
+    i{
+      font-size: 30px;
+      margin-left: 22px;
+    }
+  }
+}
+ul li{
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+// ================Programs==========================
+#programs{
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
