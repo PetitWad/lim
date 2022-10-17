@@ -1,2 +1,2 @@
 # lim
-https://wadleyph.github.io/lim/
+https://wadleyph.github.io/lim/index.php
